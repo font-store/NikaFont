@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'NikaWeb';
+    src: url('Nika-Regular.woff2') format('woff2'),
+        url('Nika-Regular.woff') format('woff'),
+        url('Nika-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
