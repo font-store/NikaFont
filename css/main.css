@@ -4,9 +4,12 @@ body{
   display: flex;
   flex-direction: column;
   margin: 0px;
-  font-size: 20px;
+  font-size: 18px;
+  line-height: 1.9;
 }
-
+p{
+  margin: 10px 0px;
+}
 h1,h2,h3,h4{
   margin: 0px;
 }
