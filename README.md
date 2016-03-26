@@ -8,7 +8,14 @@ Nika is a  Persian/Arabic typeface, suitable for text.
 در صورت مشاهده هرگونه اشکال لطفا آن را گزارش نمایید.
 
 
+#نگارش فعلی
+
+Nika 0.0.7
+
 ## Preview
-![Intro](http://font-store.github.io/font-nika/imgs/intro2-01.svg)
-![Intro](http://font-store.github.io/font-nika/imgs/intro2-02.svg)
-![Intro](http://font-store.github.io/font-nika/imgs/intro2-03.svg)
+![Intro](docs/)
+![Intro](http://font-store.github.io/font-nika/imgs/package-01.png)
+![Intro](http://font-store.github.io/font-nika/imgs/package-02.png)
+![Intro](http://font-store.github.io/font-nika/imgs/package-03.png)
+![Intro](http://font-store.github.io/font-nika/imgs/package-05.png)
+![Intro](http://font-store.github.io/font-nika/imgs/package-06.png)
