@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1300px" height="1300px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1300 1056"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#996633;fill-opacity:0.549020}
+    .fil3 {fill:#999966;fill-opacity:0.549020}
+    .fil1 {fill:#99CC33;fill-opacity:0.549020}
+    .fil2 {fill:red;fill-opacity:0.549020}
+   ]]>
+  </style>
+ </defs>
+ <g id="_100:master" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M942 407l-62 53 35 271c-52,44 -119,81 -225,82 -138,0 -223,-86 -129,-350l-33 -9c-138,310 -12,440 161,441 117,0 269,-66 284,-207 4,-38 -21,-218 -31,-281z"/>
+ </g>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path class="fil0" d="M926 407l-62 53c225,442 -518,490 -303,19l-57 -33c-134,297 26,445 195,447 179,2 369,-161 227,-486z"/>
+ </g>
+ <g id="Layer_x0020_3" visibility="hidden">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <path class="fil0" d="M941 407l-61 53 34 271c-217,166 -508,90 -363,-254l-49 -19c-258,615 505,473 474,220l-35 -271z"/>
+ </g>
+ <g id="Layer_x0020_2" visibility="hidden">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <path class="fil0" d="M663 894l-1 -81c85,0 194,-49 251,-110l62 -46c-16,123 -163,236 -312,237z"/>
+  <path class="fil1" d="M975 657l-62 46c10,-39 -27,-162 -47,-222 -4,-13 -1,-20 8,-27l38 -33c5,-4 12,-5 15,3 25,70 56,174 48,233z"/>
+  <path class="fil2" d="M662 813l1 81c-150,0 -280,-94 -156,-423 3,-8 11,-12 18,-9l24 9c6,2 10,11 6,20 -86,213 -29,322 107,322z"/>
+ </g>
+ <g id="Layer_x0020_4">
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <path class="fil3" d="M911 703c10,-39 -27,-162 -46,-222 -4,-13 -1,-20 7,-27l39 -33c4,-4 11,-5 14,3 25,70 53,174 48,233 -10,131 -131,237 -308,237 -151,0 -293,-112 -175,-423 3,-8 10,-12 17,-9l24 9c6,2 10,11 6,20 -90,226 11,321 133,321 108,0 206,-48 241,-109z"/>
+ </g>
+</svg>

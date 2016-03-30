@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1300px" height="1300px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1300 1056"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:gray}
+    .fil3 {fill:#999966}
+    .fil0 {fill:#99CCCC}
+    .fil4 {fill:#CC9933}
+    .fil2 {fill:fuchsia}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1" visibility="hidden">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M752 650l32 0 0 -81 -32 0c-20,0 -40,19 -41,40 0,21 21,41 41,41z"/>
+  <path class="fil1" d="M958 572c-22,44 -70,78 -174,78l0 -81c45,0 101,-8 130,-33l44 36z"/>
+  <path class="fil2" d="M949 371l-54 36c0,69 -5,243 201,243l0 -81c-160,0 -142,-142 -147,-198z"/>
+ </g>
+ <g id="Layer_x0020_3" visibility="hidden">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <path class="fil1" d="M993 390l-65 -8 -11 105c-6,57 -10,64 -69,77l20 29c4,9 65,-9 71,-2 12,15 27,28 49,37l0 0c26,14 61,22 116,22l0 -81c-40,0 -72,-8 -99,-16 -29,-7 -26,-29 -24,-50l12 -113z"/>
+  <path class="fil1" d="M982 488l-13 81c-10,32 -67,81 -181,81l0 -81c131,0 181,-67 194,-81z"/>
+  <path class="fil0" d="M768 650l21 0 0 -81 -21 0c-20,0 -40,19 -40,40 -1,21 20,41 40,41z"/>
+ </g>
+ <g id="Layer_x0020_4">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <path class="fil0" d="M760 650c-20,0 -41,-20 -40,-41 0,-21 20,-40 40,-40l21 0c46,0 80,-7 110,-20 10,-7 19,-16 19,-29l0 -114c0,-11 1,-20 16,-24l29 -7c12,-3 20,1 20,15l0 130 0 0c0,16 10,29 27,34 30,9 76,15 98,15l0 81c-52,0 -122,-11 -160,-52 -35,37 -91,52 -159,52l0 0 -21 0z"/>
+ </g>
+ <g id="Layer_x0020_5" visibility="hidden">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <path class="fil0" d="M760 650l21 0 0 -81 -21 0c-20,0 -40,19 -40,40 -1,21 20,41 40,41z"/>
+  <path class="fil3" d="M972 520c0,16 -11,48 -25,69 -34,48 -100,61 -167,61l0 -81c38,0 131,-5 131,-49l7 -97c1,-12 1,-21 16,-25l30 -8c11,-3 17,4 16,16l-8 114z"/>
+  <path class="fil4" d="M926 585l47 -86c-2,28 -5,52 27,60 22,6 48,10 81,10l0 81c-108,0 -146,-51 -155,-65z"/>
+ </g>
+</svg>

@@ -2,6 +2,16 @@
 
 Nika is a  Persian/Arabic typeface, suitable for text.
 
+
+# درباره فونت
+
+تایپ فیس نیکا اولین تایپ فیس من محسوب میشه. من برنامه نویس هستم اما موفق شدم به تنهایی و بعد از ۱۵ تحقیق روی خط فارسی و مباحث تناسبات و … رمز و راز طراحی حروف رو استخراج و مستند کنم.
+
+در حال حاظر هم روی آموزش اصول طراحی  حروف فارسی کار میکنم .تا با انتشار این آموزش بتوانم از خط فارسی صیانت  نمایم.
+
+خط فارسی قابلیت ‌های بسیار زیادی دارد. به امید آنروزی که هزاران فونت فونت فارسی داشته باشیم.
+
+
 # وضعیت توسعه
 
 این فونت در مراحل اولیه طراحی و پیاده سازی قرار دارد و هنوز به حالت پایدار نرسیده است.
@@ -10,12 +20,13 @@ Nika is a  Persian/Arabic typeface, suitable for text.
 
 #نگارش فعلی
 
-Nika 0.0.7
+Nika 0.0.9
 
 ## Preview
-![Intro](docs/)
-![Intro](http://font-store.github.io/font-nika/imgs/package-01.png)
-![Intro](http://font-store.github.io/font-nika/imgs/package-02.png)
-![Intro](http://font-store.github.io/font-nika/imgs/package-03.png)
-![Intro](http://font-store.github.io/font-nika/imgs/package-05.png)
-![Intro](http://font-store.github.io/font-nika/imgs/package-06.png)
+![Intro](docs/cell1.png)
+![Intro](docs/cell2.png)
+![Intro](docs/cell3.png)
+![Intro](docs/cell4.png)
+![Intro](docs/cell5.png)
+![Intro](docs/cell6.png)
+![Intro](docs/cell8.png)
