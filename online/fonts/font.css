@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'TestFont';
+    src: url('Nika-Regular.woff') format('woff2'),
+    url('Nika-Regular.woff') format('woff'),
+    url('Nika-Regular.otf') format('opentype') ,
+    url('Nika-Regular.ttf') format('truetype');
+       
+    font-weight: normal;
+    font-style: normal;
+}

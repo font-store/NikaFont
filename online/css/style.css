@@ -1,0 +1,540 @@
+@charset "UTF-8";
+/*!
+ *
+ * Published under MIT License.
+ * Designed and Developed by Saleh Souzanchi (saleh.souzanchi@gmail.com)
+ */
+
+@-webkit-keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@-webkit-keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+
+
+
+body{
+    background-color: #bbb;
+    color:rgb(74, 74, 74);
+    font-size : 100%;
+    line-height:100%;
+    margin:0px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/************************************
+
+*************************************/
+#container{
+    display: flex;
+    flex-direction:column;
+    
+    
+    font-family: TestFont , arial;
+  flex:1 1 auto;
+
+}
+/************************************
+
+*************************************/
+header{
+    display:flex;
+    flex-direction:row;
+    flex:0 0 auto;
+    background : #444242;
+    height: 90px;
+    position: relative;
+    box-shadow: 0px 2px 4px 1px #999;
+}
+
+header .logobox{
+    background: #ff007e;
+    padding:0 20px;
+    color:#fff;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+header .logobox .t1,.t2{
+    line-height:1;
+    font-family: Lalezar;
+    font-size: 40px;
+    
+    font-weight: 400;
+        display: block;
+        width: 100%;
+
+}
+ .logobox .t1{
+
+color: bisque;
+line-height: 0.8;
+text-shadow: 1px 1px 2px rgb(69, 69, 69);
+}
+ .logobox .t2{
+  color: #fff;
+   text-align: center;
+   font-size: 60px;
+   line-height: 0.5;
+   text-shadow:0px 2px 1px #666,2px 0px 1px #666;
+}
+
+
+header #toolbox {
+    display:block;
+    position: relative;
+    height: 100%;  
+   
+    width: 100%;
+    text-align: center;
+    
+}
+
+
+ #toolbox a{
+    display: inline-block;
+    position: relative;
+    padding: 0px 10px;
+    margin: 0px 10px;
+    height: inherit;
+}
+
+ #toolbox a.active{
+  background-color: #000;
+ }
+
+ #toolbox .spilit{
+background-color: rgba(215, 163, 59, 0.5);
+content: '';
+display: inline-block;
+width: 2px;
+height: inherit;
+position: relative;
+
+ }
+
+ #toolbox a:hover{
+  background-color: #1d6da1;
+ }
+  #toolbox a img{
+    display: block;
+    height: 100%;
+  }
+
+  #toolbox a span{
+    position: absolute;
+    background-color: red;
+    left: auto;
+    right: auto;
+
+    z-index: 10;
+    display: none;
+        bottom: 20;
+        height: 0;
+    font-family: Lalezar;
+    font-size: 24px;
+    line-height: 1;
+    height: 0px;
+    font-weight: 400px;
+    text-shadow: 1px 1px 3px #666;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 0 0 6px 6px;
+    border-left: 1px solid bisque;
+    border-right: 1px solid bisque;
+    border-bottom: 1px solid bisque;
+    overflow: hidden;
+      box-shadow: 0px 2px 4px 1px #999;
+        -webkit-animation-duration: 0.5s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+      -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+
+  }
+
+ #toolbox a:hover span{
+  display: block;
+-webkit-animation-name: fadeInDown;
+  animation-name: fadeInDown;
+        
+        height: auto;
+ }  
+/************************************
+
+*************************************/
+.UnitTest{
+    background-color:#fefefe;
+    
+    box-shadow: 0px 2px 4px 1px #999;
+    
+    
+            font-size : 1em;
+        line-height:1.6em;
+        flex:1;
+    
+}
+
+.UnitTest.hide{
+  display: none;
+
+}
+
+.UnitTest .titr{
+    
+    
+    display:block;
+    font-weight:700;
+    font-size: 1.4em;
+    
+}
+
+.UnitTest .so-titr{
+     margin-top:20px;
+    display:block;
+    border-right:5px solid #ccc;
+    padding-right:10px;
+    font-size: 1.1rem;
+    margin-left:20px;
+    margin-right:20px;
+    
+}
+
+
+.UnitTest  .para{
+    
+    margin: 50px 10px;
+    color:#535353;
+    text-indent:5%;
+    font-size:2em;
+    line-height:1.9;
+    
+
+}
+
+.UnitTest .multicolumn{
+    display:block;
+-moz-column-count: 2;
+-moz-column-gap: 40px;
+}
+
+.UnitTest .multicolumn h3{
+    font-weight:700;
+    margin:0px;
+    display:block;
+}
+
+.UnitTest .multicolumn > div + div{
+    margin-top:50px;
+}
+
+.UnitTest .multicolumn p{
+    
+    
+     font-weight:400;
+     text-indent:10%;
+     text-align :right;
+     color:#535353;
+     line-height: 2;
+     margin:10px 0 0 0;
+     font-size:21px;
+}
+
+/************************************
+
+*************************************/
+#FarsiPanel{
+
+}
+
+
+label{
+  font-family: IranianSans3;
+  font-size: 14px;
+    margin: 0 10px;
+}
+
+/****************/
+
+#TestPanel{
+  padding: 0px;
+  flex:1;
+ display: flex;
+ flex-direction:column;
+}
+
+#TestPanel .boxContainer{
+  padding: 20px  30px;
+  min-height: 200px;
+  display: flex;
+  position: relative;
+  flex:1 1 0;
+  flex-flow:wrap;
+  overflow: auto;
+    box-shadow: 0px 0px 14px -3px #aaa inset;
+  
+}
+#TextContainer {
+  flex:1;
+  display: flex;
+  position: relative;
+
+  
+}
+
+#TextContainer > p{
+  display: none;
+  flex:0;
+
+  margin: 0px;
+  padding: 0px 20px;
+    line-height: 1.6em;
+    text-rendering:optimizelegibility;
+  position: relative;
+  word-wrap: break-word;
+word-break: normal;
+}
+
+#TextContainer .show{
+  flex:1;
+  display: table;
+height: 100%;
+  display: block;
+}
+
+#TextContainer.grid-line .show{
+  background-color: transparent;
+  background-image: linear-gradient(rgba(0, 0, 0, .09) 1px, transparent 1px);
+  background-size: 100% 1.6em;
+  background-position: 0 1.05em;
+}
+
+.nowrap{
+     white-space: nowrap;
+}
+
+#TestPanel .side-top,
+#TestPanel .side-bottom{
+  display: flex;
+  flex:0;
+  flex-direction:column;
+  -moz-user-select:none;
+}
+
+.side-top,
+.side-bottom{
+  flex:0;
+  display: flex;
+  flex-direction:column;
+   
+ color: #000;
+ background-color:#f1f1f1;
+}
+
+  .side-row,
+ .side-row{
+    background-image: -moz-linear-gradient(top,#fff, #e1e1e1);
+  background-image: -webkit-linear-gradient(top, #fff, #e1e1e1);
+  
+display: flex;
+  flex-direction:row;
+  padding: 5px; 
+  flex:1;
+}
+
+.side-top .side-row{
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #aaa;
+}
+.side-top .side-row:first-child{
+  border-top:none;
+}
+
+.side-bottom .side-row{
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #aaa;
+}
+.side-bottom .side-row:last-child{
+  border-top:none;
+}
+.side-bottom .side-row:first-child{
+  border-top:   1px solid #aaa;
+}
+
+
+
+.field-box{
+  flex:0;
+  display: flex;
+  flex-direction:row;
+ }
+
+.field-box + .field-box  label{
+  border-right:0;
+}
+
+
+
+#vars .field-box{
+   flex-direction:column;
+  display: flex;
+  flex:1;
+  
+}
+
+#vars .field-box label{
+  font-size: 12px;
+  line-height: 1;
+}
+
+
+.custom-checkbox{
+  position: absolute;
+clip: rect(0,0,0,0);
+}
+
+ .field-box .multiField{
+  display: flex;
+  flex-direction:row;
+  flex:1;
+  align-items:center;
+ }
+input.textSizeNumber{
+  width: 40px;
+  font-size: 12px;
+  font-family: tahoma;
+  line-height: 0.5;  
+
+}
+input.textSize{
+  
+  
+
+  flex:1 1 auto;
+}
+
+ input.custom-checkbox ~ label{
+  display: block;
+  padding: 2px 6px;
+  margin: 0;
+  border: 1px solid #bebebe;
+  background-image: -moz-linear-gradient(top,#fff, #d9d9d9);
+  background-image: -webkit-linear-gradient(top, #fff, #d9d9d9);
+  text-align: center;
+  line-height: 28px;
+  cursor: pointer;
+  color: #444;
+  white-space: nowrap;
+  text-shadow: 0 1px 0 #fff;
+  font-family: IranianSans3,arial;
+  font-size: 14px;
+
+}
+ input.custom-checkbox:checked ~ label{
+
+  background-image: -moz-linear-gradient(top,#ebebeb, #fefefe);
+  background-image: -webkit-linear-gradient(top,#ebebeb, #fefefe);
+  box-shadow: 0 1px 2px rgba(0,0,0,.2) inset;
+  color: #707070;
+  text-shadow: 0 0 2px #fff;
+    
+}
+
+
+
+
+.field-spiliter{
+  margin: 0 5px;
+   display: inline-block;
+  padding: 10px 3px;
+  
+  border: 1px solid #bababa;
+  
+  background-image: radial-gradient(#e1e1e1,#cac9ca);
+  text-align: center;
+  line-height: 28px;
+  cursor: pointer;
+  color: #444;
+  text-shadow: 0 1px 0 #fff;
+}
+
+
+footer{
+    font-family:IranianSans3;
+    text-align:center;
+    padding:5px;
+}
+
+footer p{
+    margin:0;
+    font-size:12px;
+    color:#000;
+}
+
+footer p a{
+    color:#3c4ead;
+}
+
+
+  @font-face {
+      font-family: 'IranianSans3';
+      src: url('IranianSans3-regular.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
