@@ -1,14 +1,14 @@
 {
 	"rfb": "1",
 	"fontName":  "Nika",
-	"fontVersion": "0.1.0",
+	"fontVersion": "0.1.1",
 	"fontMeta": {
         "Copyright": "Copyright (c) 2016 Copyright Holder Persian Font Store (info@font-store.ir), with Reserved Font Name \"Nika\"",
         "License": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
         "LicenseURL": "http://scripts.sil.org/OFL",
         "Designer": "Mohammad Saleh Souzanchi",
         "DesignerURL": "http: //soozanchi.ir",
-        "Trademark": "Nika is a Trademark of Saleh Souzanchi"
+        "Trademark": "Nika is a Trademark of Persian Font Store"
 	},
     "fontWeights": {
         "Regular": {

@@ -2,6 +2,9 @@
 
 Nika is a  Persian/Arabic typeface, suitable for text.
 
+#نگارش فعلی
+
+Nika 0.1.1
 
 # درباره فونت
 
@@ -51,9 +54,7 @@ Nika is a  Persian/Arabic typeface, suitable for text.
 
 
 
-#نگارش فعلی
 
-Nika 0.1.0
 
 demo : [here](http://font-store.github.io/font-nika/online/)
 
