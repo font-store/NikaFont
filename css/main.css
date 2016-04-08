@@ -124,6 +124,13 @@ footer a{
 }
 
 
+#TextFarsiSec{
+  padding: 100px 10%;
+  line-height: 1.6;
+  font-size: 6em;
+  background-color: #fff;
+}
+
 .btn-1 {
   background: #FEDA71;
   background: -moz-linear-gradient(top,#FEDA71 0%,#FEBB49 100%);
