@@ -1,4 +1,4 @@
-body{
+html,body{
   font-family: TestFont,cursive;
   direction: rtl;
   display: flex;
@@ -7,6 +7,7 @@ body{
   font-size: 1em;
   line-height: 1.9;
   background: #EEEEEE;
+  min-width:700px;
 }
 
 
@@ -110,11 +111,11 @@ footer a{
 #FontNameSec .font-name{
   font-size: 20em;
   color: #EBEB7C;
-  //overflow: hidden;
+  overflow: hidden;
   flex:1;
-  border:1px solid #fff;
-  vertical-align: middle;
-  line-height: 1;
+  
+  
+  
   margin: 90px 0;
   text-shadow: 8px 8px 10px rgba(0, 0, 0, 0.31)
 }
@@ -126,9 +127,13 @@ footer a{
 
 #TextFarsiSec{
   padding: 100px 10%;
-  line-height: 1.6;
-  font-size: 6em;
+  line-height: 1.8;
+  font-size: 1.3em;
   background-color: #fff;
+}
+#TextFarsiSec p {
+    margin-top:10px;
+    text-indent:20px;
 }
 
 .btn-1 {
