@@ -1,17 +1,50 @@
 html,body{
   font-family: TestFont,cursive;
   direction: rtl;
-  display: flex;
-  flex-direction: column;
+
   margin: 0px;
   font-size: 1em;
   line-height: 1.9;
-  background: #EEEEEE;
+  background: #21252E;
   min-width:700px;
+}
+#main{
+  width: 80%;
+  border:1px solid #fff;
+  margin: 0px auto;
 }
 
 
+#FontStore{
+  text-align: center;
+  padding-top: 70px;
+  color:#FF5454;
+}
+.two-panel-conatiner{
+  display: flex;
+  flex-direction:row;
+  min-height: 100%;
 
+}
+.two-panel-conatiner .right{
+//align-self:center;    
+align-items: center;
+      background: #C82257;
+      box-shadow: 10px 10px 10px #414141 inset;
+}
+.panel-r{
+
+  color: #fff;
+  width: 400px;
+  
+}
+.two-panel-conatiner .left{
+  flex:1;
+    display: flex;
+  flex-direction:column;
+      align-self:center;
+      align-items: center;
+}
 p{
   margin: 0px 0px;
 }
@@ -19,7 +52,7 @@ h1,h2,h3,h4{
   margin: 0px;
 }
 
-footer{
+#footer{
   background-color: #414141;
   padding: 50px;
   color: #fff;
@@ -35,19 +68,18 @@ footer a{
   color:  red;
 }
 
-.header__logoBox{
-  background: #C82257;
-  padding: 100px 0;
+#start{
+  
+  background-color: #414141;
   text-align: center;
-  position: relative;;
 }
 .header__peresntMSG{
   //background: #588586;
   text-align: center;
   position: relative;
-  overflow: hidden;
+  
   padding: 50px 0;
-    color: #6b6262;
+  //  color: #6b6262;
 }
 
 .logo-message {
@@ -55,7 +87,7 @@ footer a{
 }
 .logo-message p{
 
-  font-size: 1.4em;
+  font-size: 0.9em;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -72,10 +104,10 @@ footer a{
 
 
 .header__peresntMSG .s2{
-  font-size: 3.5em;
+  font-size: 1.5em;
   line-height: 1.5;
     margin-top: 80px;
-    color: #474e68;
+//    color: #474e68;
 }
 
 
@@ -86,40 +118,34 @@ footer a{
 
 
 #FontNameSec{
-  display: flex;
+  
   background-color: #335771;
-    flex-direction: column;
-    align-items:center;
-    height: 100vh;
+    
     
 }
 
 
 
-#FontNameSec .font-no,
-#FontNameSec .font-cat{
+ .font-no,
+.font-cat{
   background-color: #e30482;
       font-size: 1.2em;
     font-weight: 400;
   color: #fff;
   padding: 0px 60px;
 }
-#FontNameSec .font-no{
+ .font-no{
     border-radius: 0 0 10px 10px;
 
 }
-#FontNameSec .font-name{
-  font-size: 20em;
-  color: #EBEB7C;
-  overflow: hidden;
-  flex:1;
-  
-  
-  
+.font-name{
+  font-size: 15em;
+ // color: #EBEB7C;
+ // overflow: hidden;
   margin: 90px 0;
   text-shadow: 8px 8px 10px rgba(0, 0, 0, 0.31)
 }
-#FontNameSec .font-cat{
+ .font-cat{
     border-radius: 10px 10px 0 0 ;
   
 }
