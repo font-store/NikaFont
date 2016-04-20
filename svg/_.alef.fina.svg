@@ -8,6 +8,8 @@ viewBox="0 0 1300 1056"
   <style type="text/css">
    <![CDATA[
     .fil0 {fill:black;fill-opacity:0.501961}
+    .fil4 {fill:#666666;fill-opacity:0.501961}
+    .fil5 {fill:#CCCC33;fill-opacity:0.501961}
     .fil1 {fill:gray}
     .fil3 {fill:#996633}
     .fil2 {fill:#FF9999}
@@ -29,8 +31,13 @@ viewBox="0 0 1300 1056"
   <path class="fil0" d="M975 521l-41 70c-16,-21 -16,-64 -17,-96l-14 -414c-1,-40 -3,-45 62,-81 6,0 10,2 10,9l0 512z"/>
   <path class="fil3" d="M975 520l-7 0 -34 71c37,47 111,59 166,59l0 -81c-22,0 -68,-6 -98,-15 -17,-5 -27,-18 -27,-34z"/>
  </g>
- <g id="Layer_x0020_3">
+ <g id="Layer_x0020_3" visibility="hidden">
   <metadata id="CorelCorpID_3Corel-Layer"/>
-  <path class="fil0" d="M975 521c1,24 27,48 100,48l9 0 0 81 -12 0c-103,0 -154,-52 -154,-115l0 0 -14 -427c-2,-52 -3,-57 29,-84l19 -16c13,-12 23,-11 23,9l0 504z"/>
+  <path class="fil0" d="M918 535l57 -15c0,24 26,49 100,49l9 0 0 81 -12 0c-103,0 -154,-52 -154,-115z"/>
+  <path class="fil4" d="M975 537l-57 -2 -14 -427c-2,-52 -3,-57 29,-84l19 -16c13,-12 23,-11 23,9l0 520z"/>
+ </g>
+ <g id="Layer_x0020_4">
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <path class="fil5" d="M1097 569l0 81 -12 0c-73,0 -167,-30 -167,-115l-14 -427c-2,-52 -3,-57 29,-84l19 -16c13,-12 23,-11 23,9l0 503c5,45 89,49 122,49z"/>
  </g>
 </svg>
