@@ -18,24 +18,24 @@ viewBox="0 0 1300 1056"
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <path class="fil0" d="M942 407l-62 53 35 271c-52,44 -119,81 -225,82 -138,0 -223,-86 -129,-350l-33 -9c-138,310 -12,440 161,441 117,0 269,-66 284,-207 4,-38 -21,-218 -31,-281z"/>
  </g>
- <g id="Layer_x0020_1" visibility="hidden">
-  <metadata id="CorelCorpID_1Corel-Layer"/>
-  <path class="fil0" d="M926 407l-62 53c225,442 -518,490 -303,19l-57 -33c-134,297 26,445 195,447 179,2 369,-161 227,-486z"/>
- </g>
  <g id="Layer_x0020_3" visibility="hidden">
-  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <metadata id="CorelCorpID_1Corel-Layer"/>
   <path class="fil0" d="M941 407l-61 53 34 271c-217,166 -508,90 -363,-254l-49 -19c-258,615 505,473 474,220l-35 -271z"/>
  </g>
  <g id="Layer_x0020_4" visibility="hidden">
-  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <metadata id="CorelCorpID_2Corel-Layer"/>
   <path class="fil1" d="M913 709c11,-39 -29,-168 -48,-228 -4,-13 -1,-20 7,-27l39 -33c4,-4 11,-5 14,3 25,70 55,183 50,242 -22,306 -678,355 -458,-185 3,-8 11,-13 18,-10l24 10c6,2 10,10 6,19 -167,426 296,329 348,209z"/>
  </g>
  <g id="Layer_x0020_5" visibility="hidden">
-  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <metadata id="CorelCorpID_3Corel-Layer"/>
   <path class="fil1" d="M916 688l59 -64c49,286 -650,481 -459,-144 2,-8 8,-13 18,-9l26 10c8,3 9,10 6,19 -144,426 279,329 350,188z"/>
   <path class="fil2" d="M916 688l34 54c47,-66 21,-200 -18,-314 -2,-6 -8,-14 -18,-6l-40 35c-4,4 -10,10 -6,22 15,45 52,171 48,209z"/>
  </g>
- <g id="Layer_x0020_6">
+ <g id="Layer_x0020_6" visibility="hidden">
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <path class="fil3" d="M975 667c-45,302 -708,359 -476,-179 4,-8 9,-13 19,-9l25 10c8,3 10,11 6,20 -162,377 252,345 366,182 4,-39 -37,-169 -64,-226 -3,-12 2,-18 7,-22l40 -34c10,-9 16,0 18,5 28,63 69,183 59,253z"/>
+ </g>
+ <g id="Layer_x0020_7">
   <metadata id="CorelCorpID_5Corel-Layer"/>
   <path class="fil3" d="M975 667c-45,302 -708,359 -476,-179 4,-8 9,-13 19,-9l25 10c8,3 10,11 6,20 -162,377 252,345 366,182 4,-39 -37,-169 -64,-226 -3,-12 2,-18 7,-22l40 -34c10,-9 16,0 18,5 28,63 69,183 59,253z"/>
  </g>
