@@ -7,12 +7,12 @@ viewBox="0 0 1300 1056"
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil0 {fill:black}
+    .fil0 {fill:#6666CC}
    ]]>
   </style>
  </defs>
  <g id="_100:master">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <path class="fil0" d="M823 33c203,292 202,455 -1,747l-33 -31c140,-202 140,-481 0,-683l34 -33z"/>
+  <path class="fil0" d="M853 0c187,260 171,520 2,754l-42 -40c139,-201 139,-471 -1,-673l41 -41z"/>
  </g>
 </svg>
