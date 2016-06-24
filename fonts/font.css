@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'NikaWeb';
-    src:    url('Nika-Regular.woff') format('woff'),
+
+    src:  url('Nika-Regular.woff2') format('woff2'),
+      url('Nika-Regular.woff') format('woff'),
     url('Nika-Regular.otf') format('opentype') ,
     url('Nika-Regular.ttf') format('truetype');
     font-weight: normal;
@@ -9,7 +11,7 @@
 
 @font-face {
     font-family: 'TestFont';
-    src:url('Nika-Regular.woff') format('woff2'),
+    src:url('Nika-Regular.woff2') format('woff2'),
     url('Nika-Regular.woff') format('woff'),
     url('Nika-Regular.otf') format('opentype') ,
     url('Nika-Regular.ttf') format('truetype');
@@ -22,6 +24,16 @@
     font-family: 'Ganj';
     src:url('GanjNamehSans-Regular.woff2') format('woff2'),
     url('GanjNamehSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'FSIcon';
+    src:url('fontstore-icon.woff2') format('woff2'),
+    url('fontstore-icon.woff') format('woff'),
+    url('fontstore-icon.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
