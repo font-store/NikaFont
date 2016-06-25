@@ -1,5 +1,10 @@
 :root {
   font-size: 14px;
+
+}
+
+svg:not(:root) {
+    overflow: hidden;
 }
 
 @media (min-width: 400px) and (max-width: 800px) {
@@ -10,6 +15,7 @@
 @media (min-width: 800px) {
   :root {
     font-size: 17px;
+      line-height: 1.8rem;
   }
 }
 
@@ -17,10 +23,13 @@ html{
   font-family: TestFont,cursive;
   direction: rtl;
   margin: 0px;
-  background: #F7F8FA;
-  color: #3c3c3c;
 }
 
+body{
+  background-color: #F1F1F1;
+  color: #4d4d4d;
+
+}
 
 /*
 header style
@@ -28,20 +37,33 @@ header style
  */
 
 header{
-  background-color: #C82257;
+
   padding: 0vh 12vw ;
   position: fixed;
-  width: 100%;
+    display: flex;
 
+  left: 0;
+  right: 0;
   z-index: 1;
+  background: #FFFFFF;
+  border-bottom: 1px solid #bbb;
+}
+
+header.changeState{
+  background-color: #C82257;
+}
+
+header.changeState a{
+  color:#fff;
 }
 
 .navbar{
+  flex: 1;
   list-style: none;
   display: flex;
   margin: 0px;
   position: relative;
-  height: 115px;
+  height: 80px;
 
 }
 
@@ -51,29 +73,17 @@ header{
   align-self:center;
 }
 
-.navbar li.space{
-  flex: 1 1 6vw;
-}
 
 .navbar a{
-  color:#fff;
-  font-size: 1.2rem;
+color: #2d2d2d;
+  font-size: 1rem;
+  font-weight: bold;
 }
 
-#logo{
-  position: absolute;
-  margin: 0px;
-  z-index: 1;
-  top: 0;
-  left: 50%;
-  background: #C82257;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: normal;
-  width: 12rem;
-  margin-left: -5rem;
-  height: 100px;
-  padding-top: 15px;
+#TopLogo{
+  height: 60px;
+
+
 }
 #logosvg{
   position: relative;
@@ -95,21 +105,34 @@ header{
 
 
 /*
-header style
+Sections
 
  */
-
+.container{
+   display: flex;
+   flex-direction: column;
+}
 section{
   border-bottom: : 1px solid #666;
   padding: 5vh 12vw ;
-  background-color: #fff;
-  min-height: 25vh;
+
+  //min-height: 25vh;
+  flex: 1 1 auto;;
+  position: relative;
+  overflow: hidden;
 }
 
+.ection-end{
+  margin: 0;
+  padding: 0;
+  box-sizing: padding-box;
+  display: block;
+  border: 1px solid red;
+}
 
 section h2.title{
   text-align: center;
-
+  font-family: "LalezarWeb";
   font-size:3rem;
 
   display: block;
@@ -117,7 +140,7 @@ section h2.title{
 }
 
 section p{
-  line-height: 1.5;
+
 }
 
 
@@ -126,6 +149,54 @@ footer{
   padding: 100px;
 }
 
+
+
+#welcome{
+  padding: 6vh 12vw ;
+  height: 100vh;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+
+}
+
+#welcome .logo{
+  width: 50%;
+  margin: 0 auto;
+}
+
+#intro{
+  background-color: #fff;
+
+}
+
+#intro .fontName{
+  font-size: 25vw;
+  font-weight: 400;
+  display: block;
+  text-overflow: clip;
+  color:#C82257;
+   margin: 0;
+   line-height: 1;
+   text-overflow: clip;
+   text-shadow:#ccc -1px 1px 0, #c9c9c9 -2px 2px 0, #bbb -3px 3px 0, #b9b9b9 -4px 4px 0, #aaa -5px 5px 0,rgba(0,0,0,.1) -6px 6px 1px, rgba(0,0,0,.1) -7px 0 5px, rgba(0,0,0,.3) -1px 1px 3px, rgba(0,0,0,.15) -3px 3px 5px, rgba(0,0,0,.2) -5px 5px 10px, rgba(0,0,0,.2) -10px 10px 10px, rgba(0,0,0,.1) -20px 20px 20px;
+}
+
+#intro .fontUsage{
+
+    width: 50vw;
+    margin: 0 auto;
+}
+
+#intro .fontUsage p{
+
+    display: inline-block;
+    color:#444;
+    font-size: 50px;
+}
 
 
 #slider{
@@ -159,43 +230,4 @@ footer{
 
 #slider .fontName{
 
-}
-
-
-#about{
-
-  padding: 6vh 12vw ;
-  min-height: 70vh;
-  text-align: center;
-  display:flex;
-  flex-direction: column;
-justify-content: center;
-  overflow: hidden;
-  position: relative;
-  background-color: #fff;
-}
-
-#about .fontName{
-  font-size: 25vw;
-  font-weight: 400;
-  display: block;
-  text-overflow: clip;
-  color:#C82257;
-   margin: 0;
-   line-height: 1;
-   text-overflow: clip;
-   text-shadow:#ccc -1px 1px 0, #c9c9c9 -2px 2px 0, #bbb -3px 3px 0, #b9b9b9 -4px 4px 0, #aaa -5px 5px 0,rgba(0,0,0,.1) -6px 6px 1px, rgba(0,0,0,.1) -7px 0 5px, rgba(0,0,0,.3) -1px 1px 3px, rgba(0,0,0,.15) -3px 3px 5px, rgba(0,0,0,.2) -5px 5px 10px, rgba(0,0,0,.2) -10px 10px 10px, rgba(0,0,0,.1) -20px 20px 20px;
-}
-
-#about .fontUsage{
-
-    width: 50vw;
-    margin: 0 auto;
-}
-
-#about .fontUsage p{
-
-    display: inline-block;
-    color:#444;
-    font-size: 50px;
 }

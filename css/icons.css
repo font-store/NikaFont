@@ -5,19 +5,6 @@
 
 }
 
-
-
-
-
-
-
-
-.fs_icon-p:after{content:"p"}
-.fs_icon-t:after{content:"t"}
-.fs_icon-f:after{content:"f"}
-
-
-
 .fs_icon.fs_icon-circle:after{content:'!'}
 .fs_icon.fs_icon-diamond:after{content:'*'}
 .fs_icon.fs_icon-plus_pod:after{content:'+'}

@@ -37,3 +37,13 @@
     font-weight: normal;
     font-style: normal;
 }
+
+
+
+@font-face {
+    font-family: 'LalezarWeb';
+    src:  url('Lalezar-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
