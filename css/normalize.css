@@ -15,9 +15,7 @@ html {
 /**
  * Remove default margin.
  */
-a{
-  text-decoration: none;
-}
+
 body {
   margin: 0;
 }

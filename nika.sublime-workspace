@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bas",
+				"BaseNames"
+			],
+			[
+				"gl",
+				"glyphs"
+			],
+			[
+				"ba",
+				"BaseGlyphs"
+			],
+			[
+				"spa",
+				"Space"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"font",
+				"fontforge"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"getw",
+				"getWeightValue"
+			],
+			[
+				"pr",
+				"project"
+			],
+			[
+				"weight",
+				"weightString"
+			],
+			[
+				"__weight",
+				"__weightNum"
+			],
+			[
+				"w",
+				"weight"
+			],
+			[
+				"forma",
+				"format"
+			],
+			[
+				"__",
+				"__configs"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"cos",
+				"costumMargin"
+			],
+			[
+				"te",
+				"textSizeNumber"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"OV",
+				"overflow"
+			],
+			[
+				"tem",
+				"tempDir"
+			],
+			[
+				"_l",
+				"_lineType"
+			],
+			[
+				"tm",
+				"tempDir"
+			],
+			[
+				"wa",
+				"watchDir"
+			],
+			[
+				"s",
+				"svg"
+			],
+			[
+				"line",
+				"lineType"
+			],
+			[
+				"sh",
+				"shadowBlur"
+			],
+			[
+				"_",
+				"_shadow"
+			],
+			[
+				"blur",
+				"Blur"
+			],
+			[
+				"pro",
+				"prop"
+			],
+			[
+				"shadow",
+				"Shadow"
+			],
+			[
+				"_b",
+				"_blur"
+			],
+			[
+				"text",
+				"textStyles"
+			],
+			[
+				"si",
+				"side-top"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"refr",
+				"refresh"
+			],
+			[
+				"b",
+				"Box"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"tr",
+				"triggerHandler"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"test",
+				"testPanel"
+			],
+			[
+				"tes",
+				"TestPanel"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"exp",
+				"expFile"
+			],
+			[
+				"we",
+				"weight"
+			],
+			[
+				"ex",
+				"export2svg"
+			],
+			[
+				"re",
+				"Regular"
+			],
+			[
+				"rita",
+				"RitaConfigFont"
+			],
+			[
+				"count",
+				"countItem"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"print",
+				"pprint"
+			],
+			[
+				"fLa",
+				"False"
+			],
+			[
+				"base",
+				"baseNames"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"impo",
+				"import"
+			],
+			[
+				"Rita",
+				"RitaPaths"
+			],
+			[
+				"pa",
+				"paths"
+			],
+			[
+				"R",
+				"RitaFont"
+			],
+			[
+				"g",
+				"glyphName"
+			],
+			[
+				"cle",
+				"clearGlype"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"imp",
+				"importOutlineFile"
+			],
+			[
+				"sv",
+				"Svgs"
+			],
+			[
+				"fn",
+				"FName"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"exei",
+				"process.exit"
+			],
+			[
+				"finish",
+				"finished"
+			],
+			[
+				"consoe",
+				"console.log"
+			],
+			[
+				"listsvg",
+				"listsSvg"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"console",
+				"console.error"
+			],
+			[
+				"file",
+				"__filename"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"dirs",
+				"Dirs"
+			],
+			[
+				"dis",
+				"dist"
+			],
+			[
+				"im",
+				"importSVG"
+			],
+			[
+				"else",
+				"elseif"
+			],
+			[
+				"p",
+				"param"
+			],
+			[
+				"pra",
+				"param"
+			],
+			[
+				"list",
+				"listsSvg"
+			],
+			[
+				"rea",
+				"readDataFile"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"filen",
+				"filename"
+			],
+			[
+				"import",
+				"importSVG"
+			],
+			[
+				"f",
+				"fontWeitgh"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "liverel",
+		"selected_items":
+		[
+			[
+				"liverel",
+				"LiveReload: Help"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: cake",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/FontStore-Fonts-Repo/FontStoreRepository/Nika"
+	],
+	"file_history":
+	[
+		"/F/FontStore-Fonts-Repo/FontStoreRepository/Nika/index.html",
+		"/G/subline/Data/Packages/User/LiveReload.sublime-settings",
+		"/G/subline/Data/Packages/LiveReload/LiveReload.sublime-settings",
+		"/G/subline/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/rita.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/rfb.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/online/index.html",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/server.js",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/rfb.bat",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/online/js/app.js",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/online/css/style.css",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/data/note.txt",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/tests/debug.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/tests/builder.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/tests/install.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/tests/uninstall.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/tests/test.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/data/settings.json",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/online/fonts/test-font.css",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/test.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/tools.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/Lib/debug.py",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/online/kerning.html",
+		"/F/FontStore-Fonts-Repo/WebFonts/AdobeArbaic/tests/online/js/app.js",
+		"/F/FontStore-Fonts-Repo/WebFonts/AdobeArbaic/tests/online/css/style.css",
+		"/F/FontStore-Fonts-Repo/WebFonts/AdobeArbaic/tests/online/index.html",
+		"/F/FontStore-Fonts-Repo/WebFonts/Farboad/tests/online/index.html",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/rfb.sublime-project",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/data/base-names.txt",
+		"/F/FontStore-Fonts-Repo/RitaFontBuilder/Lib/rpaths",
+		"/G/subline/Data/Packages/User/PyYapf.sublime-settings",
+		"/G/subline/Data/Packages/PyYapf/PyYapf.sublime-settings",
+		"/G/subline/Data/Packages/User/Preferences.sublime-settings",
+		"/G/subline/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/G/subline/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/G/subline/pfe.sublime-project",
+		"/F/FontStore-Fonts-Repo/WebFonts/Farboad/tests/online/css/style.css",
+		"/F/FontStore-Fonts-Repo/WebFonts/Farboad/tests/online/js/app.js",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/pfe.py",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/pfe.bat",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/server.js",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/data/settings.json",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/tools.py",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/util.py",
+		"/G/subline/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/G/subline/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/G/subline/Data/Packages/User/Distraction Free.sublime-settings",
+		"/G/subline/Data/Packages/User/Python.sublime-settings",
+		"/G/subline/Data/Packages/Default/Preferences.sublime-settings",
+		"/G/subline/Data/Packages/IntelliDocs/IntelliDocs.sublime-settings",
+		"/G/subline/Data/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/G/subline/Data/Packages/User/IntelliDocs.sublime-settings",
+		"/G/subline/Data/Packages/Jedi - Python autocompletion/Default.sublime-mousemap",
+		"/F/FontStore-Fonts-Repo/PersianFontEngine/node_modules/browser-sync/node_modules/socket.io/lib/socket.js",
+		"/G/subline/Data/Packages/User/GitlabIntegrate.sublime-settings",
+		"/G/subline/Data/Packages/GitlabIntegrate/GitlabIntegrate.sublime-settings",
+		"/G/subline/Data/Packages/GitlabIntegrate/messages/intro.txt",
+		"/G/subline/Data/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/G/subline/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/G/subline/Data/Packages/User/Package Control.sublime-settings",
+		"/F/FontStore-Fonts-Repo/FontEngine/tools.py",
+		"/F/FontStore-Fonts-Repo/FontEngine/util.py",
+		"/G/subline/Data/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"1.",
+			"1.6",
+			"self",
+			"updateMeta",
+			"json",
+			"prin",
+			"-radio",
+			"features",
+			"backupSVG",
+			"slef",
+			"mode",
+			"insert m",
+			"inser",
+			"mode",
+			"fontSettings",
+			"Dirs",
+			"mode",
+			"RitaTools",
+			"pfe",
+			"param"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-checkbox",
+			"self",
+			"fc",
+			"rpaths",
+			"Rita Font Builder",
+			"rfb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "nika.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\subline\\pfe.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
