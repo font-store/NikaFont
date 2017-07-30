@@ -1,11 +1,11 @@
 # About
 
 - Name : Nika 
-- Descrption :Nika is a Persian/Arabic font.
+- Descrption :Nika is a Persian/Arabic font
 - Designer : [Mohammad Saleh Souzanchi](http://github.com/zoghal)
 - Development : [Mohammad Saleh Souzanchi](http://github.com/zoghal)
 - Style : Naskh
-- Usage : Web, Mobile, Print & Publishin.
+- Usage : Web, Mobile, Print & Publishing
 - Version : 1.0.0
 - Download : [here](https://github.com/font-store/font-nika/releases/latest)
 
