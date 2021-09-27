@@ -7,14 +7,14 @@
 - Style : Naskh
 - Usage : Web, Mobile, Print & Publishing
 - Version : 1.0.0
-- Download : [here](https://github.com/font-store/font-nika/releases/latest)
+- Download : [here](https://github.com/font-store/NikaFont/releases/latest)
 
 
 
 #  Demo & Tests
 
-- Tecnical Test : [here](http://font-store.github.io/font-nika/online/)
-- Survey 1 : [here](http://font-store.github.io/font-nika/tests/)
+- Tecnical Test : [here](http://font-store.github.io/NikaFont/online/)
+- Survey 1 : [here](http://font-store.github.io/NikaFont/tests/)
 
 
 
