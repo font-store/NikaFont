@@ -45,3 +45,21 @@ total(others) : 57€
 ![Intro](docs/3.png)
 
 
+## Install
+
+#### Linux
+gnu/inux users could use [kateb](https://github.com/kiamazi/kateb) font manager, to install Nika font.
+
+ubuntu users must install this dependensies too:
+```
+sudo apt install openssl libssl-dev
+````
+
+##### install kateb
+```
+sudo cpan kateb
+
+kateb install nika
+or
+kateb update nika
+```
